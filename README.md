@@ -1,2 +1,2 @@
 # Template-MVC-DAO
-template MVC avec une couche DAO
+simple template MVC with DAO for a good start
